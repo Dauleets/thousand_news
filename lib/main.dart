@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
         child: ThemeConsumer(
           child: Builder(
             builder: (context) => MaterialApp.router(
-              title: 'News',
+              title: 'Thousand App',
               routerConfig: router,
               debugShowCheckedModeBanner: false,
               theme: ThemeProvider.themeOf(context).data,
