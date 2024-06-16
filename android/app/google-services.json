@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965750844590",
+    "project_id": "thousandnews-16ca5",
+    "storage_bucket": "thousandnews-16ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965750844590:android:cbf4f1188c0f6bca70513f",
+        "android_client_info": {
+          "package_name": "com.example.thousand_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVUOLoHoTHx_9dl5nByCixaAuo-OAEUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
