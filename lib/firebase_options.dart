@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'thousandnews-16ca5.appspot.com',
     iosBundleId: 'com.example.thousandApp',
   );
+
 }

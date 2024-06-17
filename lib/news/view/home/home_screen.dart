@@ -45,6 +45,7 @@ class _NewsHomePageState extends State<NewsHomePage> {
         return Scaffold(
           backgroundColor: AppColors.backgroundColor,
           appBar: AppBar(
+            centerTitle: true,
             elevation: 10,
             backgroundColor: AppColors.darkBackgroundColor.withOpacity(0.2),
             title: Text(
